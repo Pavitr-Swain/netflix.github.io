@@ -1,47 +1,33 @@
-"# Netflix-clone" 
-"# Netflix-clone" 
-"# Netflix-clone"
+# 📺 Netflix Clone
 
+Welcome to the **Netflix Clone** repository! This is a frontend-only replica of the Netflix landing page, built using HTML and CSS. The project is designed to mimic the clean and responsive user interface of Netflix, featuring custom sections, background images, icons, and media content.
 
+![Netflix Banner](./header-image.png)
 
-🚀 Big Personal Win Today!
+## 🔗 Live Demo
 
-Just wrapped up a crazy productive day diving into:
+🌐 **Visit here** → [netflix.github.io](https://pavitr-swain.github.io/netflix.github.io/)
 
-C
+---
 
-HTML/CSS
+## 🛠️ Tech Stack
 
-SQL
+- 💻 **HTML5**
+- 🎨 **CSS3**
+- 🌐 **GitHub Pages** (for deployment)
+- 🖼️ **Image Assets** (custom visuals for features and UI)
 
-JavaScript
+---
 
-Also been deep in the grind with Python, solving over 127 problems so far 💻🔥
+## 📸 Features
 
-Some quick stats I’m low-key proud of:
+- ✅ Clean and responsive layout
+- ✅ Netflix-like hero section
+- ✅ Multiple content sections with images and descriptions
+- ✅ Footer with multi-language and FAQ support
+- ✅ Designed for desktops and tablets
 
-✅ 249 problems solved across multiple languages
+---
 
-💡 Beat 91.84% of users in recent challenges
+## 📂 Folder Structure
 
-🧠 Growing my skills in Dynamic Programming, Backtracking, Union Find, and more
-
-📊 Consistently learning through LeetCode, clocking in 512 submissions over the past year
-
-📈 Current streaks, badges, and a daily habit that’s finally paying off
-
-Today was all about:
-
-Method chaining
-
-Data reshaping (pivot, melt, concat)
-
-DataFrame tricks
-
-Good ol’ problem-solving from arrays to good triplets
-
-Not sharing this to flex — just feeling grateful for the momentum and wanted to drop a little checkpoint here to stay accountable and maybe inspire someone else to keep going 💪
-
-If you're grinding too, whether you're just starting out or 1,000 problems deep — I see you 👀 Stay at it. We’re all getting better, one line at a time.
-
-#100DaysOfCode #CodingJourney #LeetCode #SQL #JavaScript #Python #FrontendDev #TechCommunity #DeveloperInProgress
