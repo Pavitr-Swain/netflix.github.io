@@ -29,5 +29,5 @@ Welcome to the **Netflix Clone** repository! This is a frontend-only replica of 
 
 ---
 
-## 📂 Folder Structure
+
 
